@@ -15,8 +15,8 @@ File bug reports on [Github](https://github.com/yanazendo/thesis).
 ## Introduction
 
 - [Dedication](##dedication)
-- [History](##history)
 - [Apology](##apology)
+- [History](##history)
 - [Proposal](##proposal)
 
 ~dedication
@@ -81,7 +81,7 @@ After that, I quit HellaSec and took about a year off from work.
 ~apology
 ## Apology
 
-I sincerely apologize for presenting such an unconventional dissertation. However, this presentation is mutually beneficial because I have engineered it to waste very little of our time. Dissertation is therefore engineered using the principles of [mechanism design](https://medium.com/@yanazendo/enlightened-capitalism-c366cb928a68) and [Beer Garden](##beer-garden).
+I sincerely apologize for presenting such an unconventional dissertation. However, this presentation is mutually beneficial because I have engineered it to waste very little of our time. This dissertation is therefore engineered using the principles of [Beer Garden](##beer-garden).
 
 Also, I claim [Sidenote](http://sidenote.io) is great for presenting encyclopedic information, so I feel obligated to use Sidenote as well.
 
