@@ -1,5 +1,5 @@
 
-- [This document is my Ph.D. Thesis](##thesis)
+- [Introduction](##intro)
 - [High-Density Attack](##attack)
 - [High-Density Defense](##defense)
 - [File a bug report](##bugs)
@@ -9,8 +9,8 @@
 
 File bug reports on [Github](https://github.com/yanazendo/thesis).
 
-~thesis
-## Ph.D. Thesis
+~intro
+## Introduction
 
 - [Dedication](##dedication)
 - [History](##history)
@@ -22,7 +22,7 @@ File bug reports on [Github](https://github.com/yanazendo/thesis).
 
 This work is dedicated to the mutual benefit of everyone in the World. 
 
-I especially thank the countless people who worked with me to produce this thesis.
+I especially thank the countless people who worked with me to produce this dissertation.
 
 ~history
 ## History
@@ -39,7 +39,7 @@ I especially thank the countless people who worked with me to produce this thesi
 
 I was a Ph.D. student at Harvard, avised by [Stephen Chong](http://people.seas.harvard.edu/~chong/). I focused on developing a [provable defense against high-density attacks](http://mikegagnon.com/generalized-abstract-nonsense.pdf). I also did a little collaboration with [Margo Seltzer](http://www.eecs.harvard.edu/margo/) on [Yamaba](http://mikegagnon.com/yamba.pdf), with [Michael Mitzenmacher](http://www.eecs.harvard.edu/~michaelm/) on [Heliox](http://mikegagnon.com/heliox.pdf), and with [Jim Waldo](http://www.eecs.harvard.edu/~waldo/), [David Parkes](http://www.eecs.harvard.edu/~parkes/), and [Filip Zembowicz](http://www.filosophy.org/) on [Barter Computing](http://mikegagnon.com/barter-computing.pdf). We briefly considered turning Barter Computing into a startup.
 
-I believe I have satisfied all the course requirements. I present this document as my Ph.D. Thesis. I believe all that is left to do, now, is defend it in person.
+I believe I have satisfied all the course requirements. I present this document as my dissertation. I believe all that is left to do, now, is defend it in person.
 
 ~mit
 ## MIT Lincoln Laboratory
@@ -79,16 +79,16 @@ After that, I quit HellaSec and took about a year off from work.
 ~apology
 ## Apology
 
-I sincerely apologize for presenting such an unconventional Ph.D. thesis. However, this presentation is mutually beneficial because I have engineered it to waste very little of our time. This Ph.D. thesis is therefore engineered using the principles of [mechanism design](https://medium.com/@yanazendo/enlightened-capitalism-c366cb928a68) and [Beer Garden](##beer-garden).
+I sincerely apologize for presenting such an unconventional dissertation. However, this presentation is mutually beneficial because I have engineered it to waste very little of our time. Dissertation is therefore engineered using the principles of [mechanism design](https://medium.com/@yanazendo/enlightened-capitalism-c366cb928a68) and [Beer Garden](##beer-garden).
 
 Also, I claim [Sidenote](http://sidenote.io) is great for presenting encyclopedic information, so I feel obligated to use Sidenote as well.
 
 ~proposal
 ## Proposal
 
-I propose we use the [Great Zen Professor](https://medium.com/@yanazendo/the-great-zen-professor-71c9ce7cf58d) algorithm to evaluate this Ph.D. thesis.
+I propose we use the [Great Zen Professor](https://medium.com/@yanazendo/the-great-zen-professor-71c9ce7cf58d) algorithm to evaluate this dissertation.
 
-Essentially, we should all be very lazy. If someone finds this thesis interesting, that person should find someone else who finds this thesis more interesting, and ask for his or her opinion. Grad students come to mind.
+Essentially, we should all be very lazy. If someone finds this dissertation interesting, that person should find someone else who finds this dissertation more interesting, and ask for his or her opinion. Grad students come to mind.
 
 ~now
 ## Now
@@ -113,7 +113,7 @@ The greatest discovery of my research is that the Beer Garden defense is equival
 
 I hypothesize that the Beer Garden defense can be used to [make lots of money while improving the world](https://medium.com/@yanazendo/the-bodhisattva-investment-banker-9a23b19f148f). I am testing this hypothesis now.
 
-This thesis represents a high-density defense.
+This dissertation represents a high-density defense.
 
 ~beer-garden
 ## Beer Garden

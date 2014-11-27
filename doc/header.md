@@ -1,2 +1,2 @@
 # High-Density Attack and Defense
-Ph.D. Thesis for Michael N. Gagnon
+Ph.D. Dissertation for Michael N. Gagnon
