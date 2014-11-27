@@ -1,4 +1,6 @@
 
+[Click here](##proposal) if you are a Professor.
+
 - [Introduction](##intro)
 - [High-Density Attack](##attack)
 - [High-Density Defense](##defense)
