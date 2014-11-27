@@ -2,13 +2,27 @@
 - [This document is my Ph.D. Thesis](##thesis)
 - [High-Density Attack](##attack)
 - [High-Density Defense](##defense)
+- [File a bug report](##bugs)
+
+~bugs
+## File a bug report
+
+File bug reports on [Github](https://github.com/yanazendo/thesis).
 
 ~thesis
 ## Ph.D. Thesis
 
+- [Dedication](##dedication)
 - [History](##history)
 - [Apology](##apology)
 - [Proposal](##proposal)
+
+~dedication
+## Dedication
+
+This work is dedicated to the mutual benefit of everyone in the World. 
+
+I especially thank the countless people who worked with me to produce this thesis.
 
 ~history
 ## History
@@ -106,6 +120,8 @@ This thesis represents a high-density defense.
 
 Beer Garden defends against high-density attacks by using (1) a *Bouncer* to kick out frivolous requests, and (2) a *Doorman* to invert work requests.
 
+Beer Garden is most entertainingly explained through the story of [the Great English Professor](##great-english).
+
 - [Beer Garden Sidenote Document](http://mikegagnon.com/beergarden/)
 - [Beer Garden Slides](http://mikegagnon.com/beergarden-slides.pdf)
 - [Beer Garden Video](https://www.youtube.com/watch?v=z9gEH-EqNFo)
@@ -116,3 +132,70 @@ Beer Garden defends against high-density attacks by using (1) a *Bouncer* to kic
 - [HellaSec Joins DARPA's Cyber Fast Track Program](http://mikegagnon.com/2012/03/26/hellasec-joins-darpas-cyber-fast-track-program/)
 - [20-Minute Intro To Hacking](http://mikegagnon.com/2013/03/17/20-minute-intro-to-hacking/)
 - [How To Defend Against Algorithmic Complexity Attacks](http://mikegagnon.com/2012/01/01/how-to-defend-against-algorithmic-complexity-attacks/)
+
+~great-english
+## The Great English Professor
+
+According to Zen Legend, there was once a Great Zen Professor. In his career he collaborated with over 500 other Academics and published a countless number of Academic papers at highly respected Academic Journals. He was also quite the oddball—the oddball of oddballs, or so they say.
+
+Because he was so highly respected, everyone wanted to collaborate with him. Unfortunately, it was often frustrating to work with him because he only spoke in *koans*. A koan is a Zen puzzle that is (1) easy to state, (2) easy to verify the solution, (3) takes a fair amount of work to solve, and (4) is engineered to enlighten the mind of the puzzle solver.
+
+### A Great English Professor Visits
+
+Because the Great Zen Professor was so highly respected, a numeral system developed to measure the distance between other Academics and the Great Zen Professor himself.
+
+The Great Zen Professor had the Zen Number Zero. Everyone who collaborated with him had the Zen Number One. Everyone who collaborated with one those Academics, but who had a Zen Number less than One, had the Zen Number Two. And so on.
+
+A Great English Professor was perplexed by the Great Zen Professor. How did someone who only spoke riddles manage to be so successful? He also wanted to have One for a Zen Number.
+
+So, he decided to visit The Great Zen Professor.
+
+### Cognac
+
+On his travels towards the Great Zen Professor, the Great English Professor passed through France, where a Great French Professor gifted him a bottle of 100-year-old Louis XIII Cognac—the best cognac in the World.
+
+### The Doorman
+
+The Wall Street Journal is publishing an article that prescribes how to drink 100-year old Louis XIII Cognac. They prescribe "one small drop at a time," and The Great English Professor couldn’t agree more.
+
+Another question entirely is: "how to split a bottle of 100-year old Louis XIII?"
+
+When the Great English Professor arrived at the Great Zen Professor's University, he was greeted by a Doorman. The Doorman refused to let the Great English Professor see the Great Zen Professor.
+So he tried to schmooze the Doorman with his bottle of Louis XIII Cognac.
+
+Being a proper Doorman, he wasn’t susceptible to Bribes. The Doorman responded "I cannot accept this gift."
+
+But The Great English Professor insisted. He explained that he had travelled far, and through a recent stroke of good fortune, he had stumbled upon this most rare treat. It wouldn’t be proper for him to have it all for himself. He implored the Doorman to accept his gift.
+The Doorman responded "I agree. How about we give this gift to the Great Zen Professor, and we can share it together?"
+
+Of course, The Great English Professor agreed. After all, fine Cognac is meant to be shared.
+
+### The Question
+
+The Doorman and the Great English Professor walked into the University and into the Great Zen Professor's office, where they found him playing ping pong. He put his paddle down and had a seat in his chair. The Doorman gave him the bottle of Louis XIII.
+
+Before even meeting the Great English Professor, the Great Zen Professor said "You may ask me one question, and one question only."
+The Great English Professor asked the Great Zen Professor: "What is your Secret? How are you so successful?"
+
+### The Response
+
+The Great Zen Professor said "I will tell you."
+
+He invited everyone to sit, and he pulled out three empty Balloon glasses. He poured his visitor’s Balloon full, and then kept on pouring, even as it overflowed.
+
+The visitor screamed: "That is Louis XIII Cognac! You are wasting it!"
+The Great Zen Professor stopped pouring, put the bottle down, and said: "Like this Ballon, you are full of your own opinions and speculations. How can I show you Zen unless you first empty your Balloon?""
+
+He then invited The Great English Professor to drink, and he did—one small drop at a time.
+
+When The Great English Professor was finished, The Great Zen Professor invited him to come back once he had (1) solved the koan, and (2) acquired a Zen Number of Two.
+
+### The Bouncer
+
+The Great English Professor began to protest: "But I have traveled all this way!"
+
+A Bouncer, standing nearby, stood with his arms crossed, and said softly "You need to leave now."
+
+The Great English Professor assessed the situation, then intelligently left.
+
+Then the Bouncer, the Doorman, and The Great Zen Professor all enjoyed the rest of the bottle of Louis XIII Cognac, and everyone went back to work.
